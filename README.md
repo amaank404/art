@@ -1,7 +1,6 @@
-# no-copyright-vector-graphics
-A small set of completely free, no license, no copyright vector graphics/images
+# Art
 
-You can check out for all the contributers list at [AUTHORS](https://github.com/xcodz-dot/no-copyright-vector-graphics/blob/main/AUTHORS.md)
+My personal collection of all my artwork
 
 ## Contribute
 
